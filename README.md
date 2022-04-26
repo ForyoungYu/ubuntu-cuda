@@ -21,7 +21,7 @@ ubuntu-cuda
 
 Attention, after parameter `-v` is your specific directory you want to storage.
 
-You can specific user to into container by parameter `-u`, for example `-u salt:root` in which `salt` is my username.
+You can specific user access container by parameter `-u`, for example `-u salt:root` in which `salt` is my username.
 
 # Deploy Partainer
 
